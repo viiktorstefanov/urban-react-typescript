@@ -6,3 +6,5 @@ const Upload : FC = () : JSX.Element => {
         <></>
     );
 };
+
+export default Upload;

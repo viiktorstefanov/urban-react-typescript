@@ -6,3 +6,5 @@ const Header : FC = () : JSX.Element => {
         <></>
     );
 };
+
+export default Header;

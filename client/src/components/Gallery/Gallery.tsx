@@ -6,3 +6,5 @@ const Gallery : FC = () : JSX.Element => {
         <></>
     );
 };
+
+export default Gallery;

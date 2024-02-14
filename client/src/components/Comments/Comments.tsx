@@ -6,3 +6,5 @@ const Comments : FC = () : JSX.Element => {
         <></>
     );
 };
+
+export default Comments;

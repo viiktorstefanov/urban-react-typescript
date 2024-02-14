@@ -6,3 +6,5 @@ const EditProfile : FC = () : JSX.Element => {
         <></>
     );
 };
+
+export default EditProfile;
