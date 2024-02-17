@@ -1,4 +1,5 @@
-const apiUrl = process.env.REACT_APP_API_URL;
+// const apiUrl = process.env.REACT_APP_API_URL;
+const apiUrl = 'http://localhost:3000';
 
 async function request(method, url, data, user) {
   const options = {
